@@ -9,6 +9,7 @@
 5. [Apply an Admin theme](#apply-an-admin-theme)
 6. [Magento theme structure](#magento-theme-structure)
 7. [Theme inheritance](#theme-inheritance)
+8. [Practice](#practice)
 
 ## Overview
 Ver [Magento DevDocs](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/themes/theme-overview.html)
@@ -351,3 +352,7 @@ Theme inheritance is based on the fallback mechanism, which guarantees that if a
 1. Ver [Override static assets](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/themes/theme-inherit.html#theme-inherit-static)
 
 2. Ver [Override templates](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/themes/theme-inherit.html#theme-inherit-templates)
+
+## Practice
+
+> Create a custom theme extending the Magento Blank theme and configure this theme for default Store.
