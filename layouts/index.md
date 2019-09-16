@@ -1,4 +1,4 @@
-[Volver al menú](/magento2-frontend)
+[Back to Home](/magento2-frontend)
 
 # Magento Layouts
 ----
