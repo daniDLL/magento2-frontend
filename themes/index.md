@@ -355,4 +355,10 @@ Theme inheritance is based on the fallback mechanism, which guarantees that if a
 
 ## Practice
 
-> Create a custom theme extending the Magento Blank theme and configure this theme for default Store.
+> Create a custom storefront theme extending the Magento Blank theme and configure this theme for default Store.
+
+> Change Logo Store in the newly created theme.
+---
+> Create a custom Admin Theme.
+
+> Change Admin Login Logo.
