@@ -359,8 +359,6 @@ Theme inheritance is based on the fallback mechanism, which guarantees that if a
 
 > Change Logo Store in the newly created theme.
 
----
-
 > Create a custom Admin Theme.
 
 > Change Admin Login Logo.
