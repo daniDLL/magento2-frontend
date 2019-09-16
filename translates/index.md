@@ -1,3 +1,5 @@
+[Volver al menú](/magento2-frontend)
+
 # Magento Translates
 ----
 
